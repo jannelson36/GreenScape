@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'https://github.com/jannelson36/GreenScape/blob/main/static/favicon-32x32.png?raw=true',
+  favicon: 'https://raw.githubusercontent.com/jannelson36/GreenScape/main/static/favicon-32x32.png',
   organizationName: 'jannelson36', // Enter GitHub org/user name.
   projectName: 'Greenscape', // Enter repo name.
 
