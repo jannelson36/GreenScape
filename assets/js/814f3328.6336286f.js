@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkGreenscape=self.webpackChunkGreenscape||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"How To Add A Garden Page","permalink":"/blog/garden"},{"title":"Creating an Exciting Event with Us","permalink":"/blog/index"}]}')}}]);

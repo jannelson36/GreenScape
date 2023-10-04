@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkGreenscape=self.webpackChunkGreenscape||[]).push([[2077],{886:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/gardens","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

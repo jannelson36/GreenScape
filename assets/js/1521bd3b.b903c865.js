@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkGreenscape=self.webpackChunkGreenscape||[]).push([[9761],{7013:e=>{e.exports=JSON.parse('{"permalink":"/getting-started","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

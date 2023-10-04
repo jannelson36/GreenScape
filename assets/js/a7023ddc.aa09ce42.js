@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkGreenscape=self.webpackChunkGreenscape||[]).push([[1713],{3457:e=>{e.exports=JSON.parse('[{"label":"gardens","permalink":"/blog/tags/gardens","count":1},{"label":"events","permalink":"/blog/tags/events","count":1}]')}}]);

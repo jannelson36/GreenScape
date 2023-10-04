@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkGreenscape=self.webpackChunkGreenscape||[]).push([[3069],{5303:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"getting-started"}')}}]);
