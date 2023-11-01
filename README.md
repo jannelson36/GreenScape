@@ -5,11 +5,10 @@
 <img align="left" width="0" height="162px" hspace="10"/>
 
 [![Build and Deploy](https://github.com/jannelson36/GreenScape/actions/workflows/main.yml/badge.svg)](https://github.com/jannelson36/GreenScape/actions/workflows/main.yml)
-[![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Public Domain](https://img.shields.io/badge/public-domain-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)  
 -----
 GreenScape is an inspiring initiative aimed at transforming urban spaces into thriving green havens, fostering sustainable practices, and strengthening community bonds.
----
----
+------
 
 ![Greenscape](https://github.com/jannelson36/GreenScape/blob/main/static/greenscape.gif?raw=true)
 
